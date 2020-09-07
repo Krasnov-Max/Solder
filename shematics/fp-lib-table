@@ -1,0 +1,3 @@
+(fp_lib_table
+  (lib (name tft_termo)(type KiCad)(uri "$(KIPRJMOD)/tft_termo.pretty")(options "")(descr ""))
+)

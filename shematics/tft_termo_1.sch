@@ -1,0 +1,2066 @@
+EESchema Schematic File Version 4
+EELAYER 30 0
+EELAYER END
+$Descr User 13029 9605
+encoding utf-8
+Sheet 2 3
+Title ""
+Date ""
+Rev ""
+Comp ""
+Comment1 ""
+Comment2 ""
+Comment3 ""
+Comment4 ""
+$EndDescr
+Text Label 6450 6000 0    10   ~ 0
+GND,nres,VDD,KEY_2,HITER,TEMP_IN,TEMP_OSC,TEMP_SEL,ZERRO,ENC_A,ENC_B,KEY_ENC,TX,RX,KEY_1,SWDIO,SWCLK,BUZZER,+5V,vbat,LED,LCD_MOSI,LCD_MISO,LCD_CLK,TOUCH_MOSI,TOUCH_MISO,TOUCH_SLK,TOUCH_CS,LCD_CS,LCD_RESET,LCD_DC,TOUCH_IRQ,LCD_BACKLIGHT,BACK_L,M_CS
+Text Label 6450 3550 0    10   ~ 0
+GND,nres,VDD,KEY_2,HITER,TEMP_IN,TEMP_OSC,TEMP_SEL,ZERRO,ENC_A,ENC_B,KEY_ENC,TX,RX,KEY_1,SWDIO,SWCLK,BUZZER,+5V,vbat,LED,LCD_MOSI,LCD_MISO,LCD_CLK,TOUCH_MOSI,TOUCH_MISO,TOUCH_SLK,TOUCH_CS,LCD_CS,LCD_RESET,LCD_DC,TOUCH_IRQ,LCD_BACKLIGHT,BACK_L,M_CS
+Text Label 3200 3550 0    10   ~ 0
+GND,nres,VDD,KEY_2,HITER,TEMP_IN,TEMP_OSC,TEMP_SEL,ZERRO,ENC_A,ENC_B,KEY_ENC,TX,RX,KEY_1,SWDIO,SWCLK,BUZZER,+5V,vbat,LED,LCD_MOSI,LCD_MISO,LCD_CLK,TOUCH_MOSI,TOUCH_MISO,TOUCH_SLK,TOUCH_CS,LCD_CS,LCD_RESET,LCD_DC,TOUCH_IRQ,LCD_BACKLIGHT,BACK_L,M_CS
+Text Label 6450 2900 0    10   ~ 0
+GND,nres,VDD,KEY_2,HITER,TEMP_IN,TEMP_OSC,TEMP_SEL,ZERRO,ENC_A,ENC_B,KEY_ENC,TX,RX,KEY_1,SWDIO,SWCLK,BUZZER,+5V,vbat,LED,LCD_MOSI,LCD_MISO,LCD_CLK,TOUCH_MOSI,TOUCH_MISO,TOUCH_SLK,TOUCH_CS,LCD_CS,LCD_RESET,LCD_DC,TOUCH_IRQ,LCD_BACKLIGHT,BACK_L,M_CS
+Wire Bus Line
+	8150 3500 9650 3500
+Text Label 8150 3550 0    10   ~ 0
+GND,nres,VDD,KEY_2,HITER,TEMP_IN,TEMP_OSC,TEMP_SEL,ZERRO,ENC_A,ENC_B,KEY_ENC,TX,RX,KEY_1,SWDIO,SWCLK,BUZZER,+5V,vbat,LED,LCD_MOSI,LCD_MISO,LCD_CLK,TOUCH_MOSI,TOUCH_MISO,TOUCH_SLK,TOUCH_CS,LCD_CS,LCD_RESET,LCD_DC,TOUCH_IRQ,LCD_BACKLIGHT,BACK_L,M_CS
+Wire Bus Line
+	9650 3500 12200 3500
+Text Label 9650 3500 0    10   ~ 0
+GND,nres,VDD,KEY_2,HITER,TEMP_IN,TEMP_OSC,TEMP_SEL,ZERRO,ENC_A,ENC_B,KEY_ENC,TX,RX,KEY_1,SWDIO,SWCLK,BUZZER,+5V,vbat,LED,LCD_MOSI,LCD_MISO,LCD_CLK,TOUCH_MOSI,TOUCH_MISO,TOUCH_SLK,TOUCH_CS,LCD_CS,LCD_RESET,LCD_DC,TOUCH_IRQ,LCD_BACKLIGHT,BACK_L,M_CS
+Wire Wire Line
+	5700 5600 6350 5600
+Wire Wire Line
+	6350 5600 6350 5700
+Wire Wire Line
+	6350 5700 6275 5700
+Wire Wire Line
+	5957 5700 5700 5700
+Wire Wire Line
+	5700 5900 5950 5900
+Wire Wire Line
+	5950 5900 5950 6150
+Wire Wire Line
+	6650 6150 6707 6150
+Wire Wire Line
+	5950 6150 6650 6150
+Wire Wire Line
+	7150 5800 6650 5800
+Wire Wire Line
+	6650 5800 6650 6150
+Connection ~ 6650 6150
+Wire Wire Line
+	5700 6000 5900 6000
+Wire Wire Line
+	5900 6000 5900 6300
+Wire Wire Line
+	5900 6300 7100 6300
+Wire Wire Line
+	7100 6300 7100 6150
+Wire Wire Line
+	7100 6150 7025 6150
+Wire Wire Line
+	7150 6150 7100 6150
+Connection ~ 7100 6150
+Wire Wire Line
+	7450 5800 7600 5800
+Wire Wire Line
+	7600 5800 7600 6150
+Wire Wire Line
+	7600 6150 7450 6150
+Wire Wire Line
+	5750 6400 6150 6400
+Wire Wire Line
+	6150 6400 7600 6400
+Wire Wire Line
+	7600 6400 7600 6150
+Wire Wire Line
+	5750 6200 5700 6200
+Wire Wire Line
+	5750 6400 5700 6400
+Wire Wire Line
+	5750 6200 5750 6400
+Wire Wire Line
+	5750 6600 5700 6600
+Wire Wire Line
+	5750 6600 5750 6400
+Wire Wire Line
+	5750 6500 5700 6500
+Wire Wire Line
+	5750 6500 5750 6400
+Wire Wire Line
+	7600 6400 7600 7500
+Wire Wire Line
+	7600 7500 8200 7500
+Wire Wire Line
+	8200 7950 8200 8215
+Wire Wire Line
+	8200 7500 8200 7950
+Wire Wire Line
+	8200 8215 7879 8215
+Wire Wire Line
+	7879 8644 8200 8644
+Wire Wire Line
+	8200 8644 8200 8215
+Wire Wire Line
+	7550 7950 8200 7950
+Wire Wire Line
+	6150 7000 6150 7200
+Wire Wire Line
+	6150 6800 6150 7000
+Wire Wire Line
+	6150 6600 6150 6800
+Wire Wire Line
+	6150 6400 6150 6600
+Wire Wire Line
+	6150 7200 6300 7200
+Wire Wire Line
+	6300 7000 6150 7000
+Wire Wire Line
+	6300 6800 6150 6800
+Wire Wire Line
+	6300 6600 6150 6600
+Wire Wire Line
+	7600 5800 7600 5550
+Wire Wire Line
+	7600 5550 6550 5550
+Connection ~ 5750 6400
+Connection ~ 7600 6150
+Connection ~ 7600 6400
+Connection ~ 8200 8215
+Connection ~ 8200 7950
+Connection ~ 6150 6400
+Connection ~ 6150 7000
+Connection ~ 6150 6800
+Connection ~ 6150 6600
+Connection ~ 7600 5800
+Text Label 7450 5800 0    10   ~ 0
+GND
+Wire Wire Line
+	2650 4100 2800 4100
+Wire Wire Line
+	2800 4100 3100 4100
+Wire Wire Line
+	2800 4100 2800 3400
+Wire Wire Line
+	2800 3400 2550 3400
+Connection ~ 2800 4100
+Text Label 2650 4100 0    10   ~ 0
+GND
+Wire Wire Line
+	1550 4400 3100 4400
+Text Label 3100 4400 0    10   ~ 0
+GND
+Wire Wire Line
+	1550 4800 3100 4800
+Text Label 3100 4800 0    10   ~ 0
+GND
+Wire Wire Line
+	1550 5100 3100 5100
+Text Label 3100 5100 0    10   ~ 0
+GND
+Wire Wire Line
+	1550 6200 3100 6200
+Text Label 3100 6200 0    10   ~ 0
+GND
+Wire Wire Line
+	6000 2350 6000 2450
+Wire Wire Line
+	6000 2450 6350 2450
+Text Label 6000 2350 0    10   ~ 0
+GND
+Wire Wire Line
+	5650 2800 5650 3450
+Text Label 5650 3450 0    10   ~ 0
+GND
+Wire Wire Line
+	3500 8000 3500 8250
+Wire Wire Line
+	3500 8250 3850 8250
+Wire Wire Line
+	3850 8250 3850 8000
+Wire Wire Line
+	3500 8250 3300 8250
+Wire Wire Line
+	3300 8250 3300 6900
+Connection ~ 3500 8250
+Text Label 3500 8000 0    10   ~ 0
+GND
+Wire Wire Line
+	1550 7850 2000 7850
+Wire Wire Line
+	2000 7850 2000 7550
+Wire Wire Line
+	2000 7850 2300 7850
+Wire Wire Line
+	2300 7850 2300 8450
+Wire Wire Line
+	2150 8700 2300 8700
+Wire Wire Line
+	2300 8700 2300 8450
+Wire Wire Line
+	2300 8450 2150 8450
+Wire Wire Line
+	3000 7850 3100 7850
+Wire Wire Line
+	2300 7850 3000 7850
+Wire Wire Line
+	3000 7850 3000 8450
+Wire Wire Line
+	2850 8700 3000 8700
+Wire Wire Line
+	3000 8700 3000 8450
+Wire Wire Line
+	3000 8450 2850 8450
+Connection ~ 2000 7850
+Connection ~ 2300 8450
+Connection ~ 2300 7850
+Connection ~ 3000 7850
+Connection ~ 3000 8450
+Text Label 1550 7850 0    10   ~ 0
+GND
+Wire Wire Line
+	4200 4900 3300 4900
+Text Label 3300 4900 0    10   ~ 0
+GND
+Wire Wire Line
+	4750 2300 4750 3450
+Text Label 4750 3450 0    10   ~ 0
+GND
+Wire Wire Line
+	4350 2300 4350 2750
+Wire Wire Line
+	4350 2750 4350 3450
+Wire Wire Line
+	3450 2900 3450 2750
+Wire Wire Line
+	4250 2750 4350 2750
+Wire Wire Line
+	4050 2750 4250 2750
+Wire Wire Line
+	3850 2750 4050 2750
+Wire Wire Line
+	3650 2750 3850 2750
+Wire Wire Line
+	3450 2750 3650 2750
+Wire Wire Line
+	4250 2900 4250 2750
+Wire Wire Line
+	4050 2900 4050 2750
+Wire Wire Line
+	3850 2900 3850 2750
+Wire Wire Line
+	3650 2900 3650 2750
+Connection ~ 4350 2750
+Connection ~ 4250 2750
+Connection ~ 4050 2750
+Connection ~ 3850 2750
+Connection ~ 3650 2750
+Text Label 4350 2300 0    10   ~ 0
+GND
+Wire Wire Line
+	1750 3900 1550 3900
+Wire Wire Line
+	1950 3900 1750 3900
+Wire Wire Line
+	1750 3900 1750 3800
+Wire Wire Line
+	1750 3800 1700 3800
+Wire Wire Line
+	1700 3800 1550 3800
+Wire Wire Line
+	1700 3800 1700 2950
+Wire Wire Line
+	1700 2950 3100 2950
+Connection ~ 1750 3900
+Connection ~ 1700 3800
+Text Label 1750 3900 0    10   ~ 0
+GND
+Wire Wire Line
+	4300 7700 4300 7750
+Wire Wire Line
+	4300 7700 4600 7700
+Wire Wire Line
+	4600 7700 4600 8350
+Text Label 4300 7700 0    10   ~ 0
+GND
+Wire Wire Line
+	9450 3950 8250 3950
+Text Label 8250 3950 0    10   ~ 0
+GND
+Wire Wire Line
+	9400 6950 9400 7100
+Wire Wire Line
+	9400 7100 8250 7100
+Text Label 9400 6950 0    10   ~ 0
+GND
+Wire Wire Line
+	8100 2050 8100 2800
+Text Label 8100 2800 0    10   ~ 0
+GND
+Wire Wire Line
+	7750 2600 7750 2800
+Text Label 7750 2800 0    10   ~ 0
+GND
+Wire Wire Line
+	10600 3150 10500 3150
+Wire Wire Line
+	10500 3150 9750 3150
+Wire Wire Line
+	10800 3400 10500 3400
+Wire Wire Line
+	10500 3400 10500 3150
+Connection ~ 10500 3150
+Text Label 10600 3150 0    10   ~ 0
+GND
+Wire Wire Line
+	4200 4700 3950 4700
+Wire Wire Line
+	3950 4700 3950 7550
+Wire Wire Line
+	6400 7550 6700 7550
+Wire Wire Line
+	3950 7550 6400 7550
+Wire Wire Line
+	6400 7950 6400 8200
+Wire Wire Line
+	6400 7550 6400 7950
+Wire Wire Line
+	6400 8200 7050 8200
+Wire Wire Line
+	6400 8200 6400 8640
+Wire Wire Line
+	6400 8640 7050 8640
+Wire Wire Line
+	6400 8200 4800 8200
+Wire Wire Line
+	4800 8200 4800 8350
+Wire Wire Line
+	7250 7950 6400 7950
+Connection ~ 6400 7550
+Connection ~ 6400 8200
+Connection ~ 6400 7950
+Text Label 4200 4700 0    10   ~ 0
+nres
+Wire Wire Line
+	1550 5800 3100 5800
+Text Label 3100 5800 0    10   ~ 0
+nres
+Wire Wire Line
+	4150 4000 4200 4000
+Wire Wire Line
+	4150 4400 4200 4400
+Wire Wire Line
+	4150 4200 4150 4400
+Wire Wire Line
+	4150 4100 4150 4200
+Wire Wire Line
+	4150 4000 4150 4100
+Wire Wire Line
+	4200 4200 4150 4200
+Wire Wire Line
+	4150 4100 3850 4100
+Wire Wire Line
+	3850 4100 3850 3650
+Connection ~ 4150 4200
+Connection ~ 4150 4100
+Text Label 4150 4000 0    10   ~ 0
+VDD
+Wire Wire Line
+	7200 3500 7350 3500
+Wire Wire Line
+	7350 3500 7350 3650
+Wire Wire Line
+	7350 3650 6550 3650
+Text Label 7200 3500 0    10   ~ 0
+VDD
+Wire Wire Line
+	2200 7550 2200 7700
+Wire Wire Line
+	2200 7700 2300 7700
+Wire Wire Line
+	2400 7700 2300 7700
+Wire Wire Line
+	2400 8450 2400 7700
+Wire Wire Line
+	2550 8700 2400 8700
+Wire Wire Line
+	2400 8700 2400 8450
+Wire Wire Line
+	2400 8450 2550 8450
+Wire Wire Line
+	2300 7550 2300 7700
+Connection ~ 2400 8450
+Connection ~ 2400 7700
+Connection ~ 2300 7700
+Text Label 2200 7550 0    10   ~ 0
+VDD
+Wire Wire Line
+	3500 6800 3500 6600
+Wire Wire Line
+	3500 6600 3300 6600
+Text Label 3500 6800 0    10   ~ 0
+VDD
+Wire Wire Line
+	1550 5700 3100 5700
+Text Label 3100 5700 0    10   ~ 0
+VDD
+Wire Wire Line
+	1950 3700 1800 3700
+Wire Wire Line
+	1800 3400 1800 3100
+Wire Wire Line
+	1800 3700 1800 3400
+Wire Wire Line
+	1800 3100 3100 3100
+Wire Wire Line
+	2250 3400 1800 3400
+Connection ~ 1800 3400
+Text Label 1950 3700 0    10   ~ 0
+VDD
+Wire Wire Line
+	7200 7550 7950 7550
+Wire Wire Line
+	7950 7550 7950 6800
+Wire Wire Line
+	7950 6800 7950 5250
+Wire Wire Line
+	7950 5250 6550 5250
+Wire Wire Line
+	6750 6800 7950 6800
+Wire Wire Line
+	6600 6600 6750 6600
+Wire Wire Line
+	6750 7000 6750 7200
+Wire Wire Line
+	6750 6800 6750 7000
+Wire Wire Line
+	6750 6600 6750 6800
+Wire Wire Line
+	6750 7200 6600 7200
+Wire Wire Line
+	6600 7000 6750 7000
+Wire Wire Line
+	6600 6800 6750 6800
+Connection ~ 6750 6800
+Connection ~ 6750 7000
+Connection ~ 7950 6800
+Text Label 7200 7550 0    10   ~ 0
+VDD
+Wire Wire Line
+	9450 3850 8250 3850
+Text Label 8250 3850 0    10   ~ 0
+VDD
+Wire Wire Line
+	9400 5650 9400 5450
+Wire Wire Line
+	9400 5450 8250 5450
+Text Label 9400 5650 0    10   ~ 0
+VDD
+Wire Wire Line
+	8100 850  8100 700 
+Wire Wire Line
+	8100 700  8950 700 
+Wire Wire Line
+	8950 700  8950 3300
+Wire Wire Line
+	8950 3300 8250 3300
+Text Label 8100 850  0    10   ~ 0
+VDD
+Wire Wire Line
+	11300 2850 11400 2850
+Wire Wire Line
+	11400 2850 12100 2850
+Wire Wire Line
+	11100 3400 11400 3400
+Wire Wire Line
+	11400 3400 11400 2850
+Connection ~ 11400 2850
+Text Label 11300 2850 0    10   ~ 0
+VDD
+Wire Wire Line
+	9900 3050 9750 3050
+Text Label 9750 3050 0    10   ~ 0
+VDD
+Wire Wire Line
+	11950 2950 12100 2950
+Text Label 12100 2950 0    10   ~ 0
+VDD
+Wire Wire Line
+	4200 5400 3300 5400
+Text Label 3300 5400 0    10   ~ 0
+KEY_2
+Wire Wire Line
+	4600 3050 4600 3450
+Text Label 4600 3450 0    10   ~ 0
+KEY_2
+Wire Wire Line
+	3650 3200 3650 3450
+Text Label 3650 3450 0    10   ~ 0
+KEY_2
+Wire Wire Line
+	1950 4000 1550 4000
+Wire Wire Line
+	1550 4300 3100 4300
+Text Label 3100 4300 0    10   ~ 0
+HITER
+Wire Wire Line
+	4200 5700 3300 5700
+Text Label 3300 5700 0    10   ~ 0
+HITER
+Wire Wire Line
+	2650 3700 3100 3700
+Text Label 3100 3700 0    10   ~ 0
+TEMP_IN
+Wire Wire Line
+	5700 4000 6350 4000
+Text Label 6350 4000 0    10   ~ 0
+TEMP_IN
+Wire Wire Line
+	2650 3900 3100 3900
+Text Label 3100 3900 0    10   ~ 0
+TEMP_OSC
+Wire Wire Line
+	5700 3800 6350 3800
+Text Label 6350 3800 0    10   ~ 0
+TEMP_OSC
+Wire Wire Line
+	2650 3800 3100 3800
+Text Label 3100 3800 0    10   ~ 0
+TEMP_SEL
+Wire Wire Line
+	5700 3900 6350 3900
+Text Label 6350 3900 0    10   ~ 0
+TEMP_SEL
+Wire Wire Line
+	1550 4700 3100 4700
+Text Label 3100 4700 0    10   ~ 0
+ZERRO
+Wire Wire Line
+	6700 3500 6550 3500
+Text Label 6550 3500 0    10   ~ 0
+ZERRO
+Wire Wire Line
+	4200 5800 3300 5800
+Text Label 3300 5800 0    10   ~ 0
+ZERRO
+Wire Wire Line
+	4200 5100 3300 5100
+Text Label 3300 5100 0    10   ~ 0
+ENC_A
+Wire Wire Line
+	4850 3050 4850 3450
+Text Label 4850 3450 0    10   ~ 0
+ENC_A
+Wire Wire Line
+	3850 3200 3850 3450
+Text Label 3850 3450 0    10   ~ 0
+ENC_A
+Wire Wire Line
+	4200 5200 3300 5200
+Text Label 3300 5200 0    10   ~ 0
+ENC_B
+Wire Wire Line
+	5000 3050 5000 3450
+Text Label 5000 3450 0    10   ~ 0
+ENC_B
+Wire Wire Line
+	4050 3200 4050 3450
+Text Label 4050 3450 0    10   ~ 0
+ENC_B
+Wire Wire Line
+	4200 5300 3300 5300
+Text Label 3300 5300 0    10   ~ 0
+KEY_ENC
+Wire Wire Line
+	5150 3050 5150 3450
+Text Label 5150 3450 0    10   ~ 0
+KEY_ENC
+Wire Wire Line
+	4250 3200 4250 3450
+Text Label 4250 3450 0    10   ~ 0
+KEY_ENC
+Wire Wire Line
+	1550 5300 3100 5300
+Text Label 3100 5300 0    10   ~ 0
+TX
+Wire Wire Line
+	5700 4400 6350 4400
+Text Label 6350 4400 0    10   ~ 0
+TX
+Wire Wire Line
+	1550 5200 3100 5200
+Text Label 3100 5200 0    10   ~ 0
+RX
+Wire Wire Line
+	5700 4500 6350 4500
+Text Label 6350 4500 0    10   ~ 0
+RX
+Wire Wire Line
+	4200 5500 3300 5500
+Text Label 3300 5500 0    10   ~ 0
+KEY_1
+Wire Wire Line
+	4450 3050 4450 3450
+Text Label 4450 3450 0    10   ~ 0
+KEY_1
+Wire Wire Line
+	3450 3200 3450 3450
+Text Label 3450 3450 0    10   ~ 0
+KEY_1
+Wire Wire Line
+	4200 6400 3300 6400
+Text Label 3300 6400 0    10   ~ 0
+SWDIO
+Wire Wire Line
+	1550 6100 3100 6100
+Text Label 3100 6100 0    10   ~ 0
+SWDIO
+Wire Wire Line
+	4200 6500 3300 6500
+Text Label 3300 6500 0    10   ~ 0
+SWCLK
+Wire Wire Line
+	1550 6000 3100 6000
+Text Label 3100 6000 0    10   ~ 0
+SWCLK
+Wire Wire Line
+	5350 2800 5350 3450
+Text Label 5350 3450 0    10   ~ 0
+BUZZER
+Wire Wire Line
+	4200 6200 3300 6200
+Text Label 3300 6200 0    10   ~ 0
+BUZZER
+Wire Wire Line
+	1600 7950 1550 7950
+Wire Wire Line
+	1600 7950 1600 8150
+Wire Wire Line
+	1600 8150 1700 8150
+Wire Wire Line
+	1700 8150 2100 8150
+Wire Wire Line
+	2100 7600 2100 8150
+Wire Wire Line
+	2100 8150 3100 8150
+Wire Wire Line
+	1700 8450 1700 8150
+Wire Wire Line
+	1850 8700 1700 8700
+Wire Wire Line
+	1700 8700 1700 8450
+Wire Wire Line
+	1700 8450 1850 8450
+Connection ~ 2100 7600
+Connection ~ 1700 8450
+Connection ~ 1700 8150
+Text Label 1600 7950 0    10   ~ 0
++5V
+Wire Wire Line
+	5800 1700 6200 1700
+Wire Wire Line
+	6200 1700 6200 2000
+Wire Wire Line
+	6200 2000 6350 2000
+Text Label 5800 1700 0    10   ~ 0
++5V
+Wire Wire Line
+	5800 1800 6000 1800
+Wire Wire Line
+	6000 1800 6000 1950
+Wire Wire Line
+	5800 2150 5650 2150
+Wire Wire Line
+	5650 2150 5350 2150
+Wire Wire Line
+	5350 2150 5350 2300
+Wire Wire Line
+	5650 2300 5650 2150
+Connection ~ 5650 2150
+Wire Wire Line
+	3500 7600 3500 7300
+Wire Wire Line
+	3850 7600 3850 7300
+Wire Wire Line
+	4150 3800 4200 3800
+Wire Wire Line
+	4150 3800 4150 3650
+Text Label 4150 3650 0    10   ~ 0
+vbat
+Wire Wire Line
+	4300 8050 4300 8350
+Text Label 4300 8350 0    10   ~ 0
+vbat
+Wire Wire Line
+	3850 6800 3850 6300
+Wire Wire Line
+	3850 6300 3300 6300
+Text Label 3850 6800 0    10   ~ 0
+LED
+Wire Wire Line
+	5700 5500 6350 5500
+Text Label 6350 5500 0    10   ~ 0
+LED
+Wire Wire Line
+	4450 2300 4450 2550
+Wire Wire Line
+	4550 2300 4550 2450
+Wire Wire Line
+	4550 2450 4600 2450
+Wire Wire Line
+	4600 2450 4600 2550
+Wire Wire Line
+	4850 2300 4850 2550
+Wire Wire Line
+	4950 2300 4950 2450
+Wire Wire Line
+	4950 2450 5000 2450
+Wire Wire Line
+	5000 2450 5000 2550
+Wire Wire Line
+	5050 2300 5050 2429
+Wire Wire Line
+	5050 2429 5150 2429
+Wire Wire Line
+	5150 2429 5150 2550
+Wire Wire Line
+	5700 4300 6350 4300
+Text Label 6350 4300 0    10   ~ 0
+LCD_MOSI
+Wire Wire Line
+	8600 4350 8250 4350
+Text Label 8250 4350 0    10   ~ 0
+LCD_MOSI
+Wire Wire Line
+	11300 3150 12100 3150
+Text Label 12100 3150 0    10   ~ 0
+LCD_MOSI
+Wire Wire Line
+	5700 4200 6350 4200
+Text Label 6350 4200 0    10   ~ 0
+LCD_MISO
+Wire Wire Line
+	8600 4650 8250 4650
+Text Label 8250 4650 0    10   ~ 0
+LCD_MISO
+Wire Wire Line
+	10600 2950 9750 2950
+Text Label 9750 2950 0    10   ~ 0
+LCD_MISO
+Wire Wire Line
+	5700 4100 6350 4100
+Text Label 6350 4100 0    10   ~ 0
+LCD_CLK
+Wire Wire Line
+	8600 4450 8250 4450
+Text Label 8250 4450 0    10   ~ 0
+LCD_CLK
+Wire Wire Line
+	11300 3050 12100 3050
+Text Label 12100 3050 0    10   ~ 0
+LCD_CLK
+Wire Wire Line
+	5700 5300 6350 5300
+Text Label 6350 5300 0    10   ~ 0
+TOUCH_MOSI
+Wire Wire Line
+	8600 4950 8250 4950
+Text Label 8250 4950 0    10   ~ 0
+TOUCH_MOSI
+Wire Wire Line
+	5700 5200 6350 5200
+Text Label 6350 5200 0    10   ~ 0
+TOUCH_MISO
+Wire Wire Line
+	8600 5050 8250 5050
+Text Label 8250 5050 0    10   ~ 0
+TOUCH_MISO
+Wire Wire Line
+	5700 5100 6350 5100
+Text Label 6350 5100 0    10   ~ 0
+TOUCH_SLK
+Wire Wire Line
+	8600 4750 8250 4750
+Text Label 8250 4750 0    10   ~ 0
+TOUCH_SLK
+Wire Wire Line
+	5700 5000 6350 5000
+Text Label 6350 5000 0    10   ~ 0
+TOUCH_CS
+Wire Wire Line
+	8600 4850 8250 4850
+Text Label 8250 4850 0    10   ~ 0
+TOUCH_CS
+Wire Wire Line
+	5700 4600 6350 4600
+Text Label 6350 4600 0    10   ~ 0
+LCD_CS
+Wire Wire Line
+	8600 4050 8250 4050
+Text Label 8250 4050 0    10   ~ 0
+LCD_CS
+Wire Wire Line
+	9450 4050 9100 4050
+Wire Wire Line
+	9450 4150 9100 4150
+Wire Wire Line
+	9450 4250 9100 4250
+Wire Wire Line
+	9450 4350 9100 4350
+Wire Wire Line
+	9450 4450 9100 4450
+Wire Wire Line
+	9450 4650 9100 4650
+Wire Wire Line
+	9450 4750 9100 4750
+Wire Wire Line
+	9450 4850 9100 4850
+Wire Wire Line
+	9450 4950 9100 4950
+Wire Wire Line
+	9450 5050 9100 5050
+Wire Wire Line
+	9200 5150 9100 5150
+Wire Wire Line
+	9450 5150 9200 5150
+Wire Wire Line
+	9400 6300 9200 6300
+Wire Wire Line
+	9200 6300 9200 5150
+Wire Wire Line
+	9400 6300 9400 6450
+Wire Wire Line
+	9400 6150 9400 6300
+Connection ~ 9400 6300
+Connection ~ 9200 5150
+Wire Wire Line
+	5700 4700 6350 4700
+Text Label 6350 4700 0    10   ~ 0
+LCD_RESET
+Wire Wire Line
+	8600 4150 8250 4150
+Text Label 8250 4150 0    10   ~ 0
+LCD_RESET
+Wire Wire Line
+	5700 4800 6350 4800
+Text Label 6350 4800 0    10   ~ 0
+LCD_DC
+Wire Wire Line
+	8600 4250 8250 4250
+Text Label 8250 4250 0    10   ~ 0
+LCD_DC
+Wire Wire Line
+	5700 4900 6350 4900
+Text Label 6350 4900 0    10   ~ 0
+TOUCH_IRQ
+Wire Wire Line
+	8600 5150 8250 5150
+Text Label 8250 5150 0    10   ~ 0
+TOUCH_IRQ
+Wire Wire Line
+	8100 1500 8100 1650
+Wire Wire Line
+	8100 1350 8100 1500
+Wire Wire Line
+	8100 1500 8750 1500
+Wire Wire Line
+	8750 1500 8750 3200
+Wire Wire Line
+	8750 3200 8250 3200
+Connection ~ 8100 1500
+Text Label 8100 1500 0    10   ~ 0
+LCD_BACKLIGHT
+Wire Wire Line
+	9450 4550 8250 4550
+Text Label 8250 4550 0    10   ~ 0
+LCD_BACKLIGHT
+Wire Wire Line
+	7750 1850 7900 1850
+Wire Wire Line
+	7600 1850 7750 1850
+Wire Wire Line
+	7750 2100 7750 1850
+Connection ~ 7750 1850
+Wire Wire Line
+	7100 1850 6900 1850
+Wire Wire Line
+	6900 1850 6900 2800
+Text Label 7100 1850 0    10   ~ 0
+BACK_L
+Wire Wire Line
+	4200 6100 3300 6100
+Text Label 3300 6100 0    10   ~ 0
+BACK_L
+Wire Wire Line
+	10400 3050 10600 3050
+Wire Wire Line
+	11300 2950 11450 2950
+Wire Wire Line
+	4200 6000 3300 6000
+Text Label 3300 6000 0    10   ~ 0
+M_CS
+Wire Wire Line
+	9900 2850 9750 2850
+Text Label 9750 2850 0    10   ~ 0
+M_CS
+Wire Wire Line
+	10400 2850 10600 2850
+Entry Wire Line
+	6450 5450 6550 5550
+Entry Wire Line
+	6450 3550 6550 3650
+Entry Wire Line
+	6450 5150 6550 5250
+Entry Wire Line
+	6350 4000 6450 4100
+Entry Wire Line
+	6350 3800 6450 3900
+Entry Wire Line
+	6350 3900 6450 4000
+Entry Wire Line
+	6350 4400 6450 4500
+Entry Wire Line
+	6350 4500 6450 4600
+Entry Wire Line
+	6350 5500 6450 5600
+Entry Wire Line
+	6350 4300 6450 4400
+Entry Wire Line
+	6350 4200 6450 4300
+Entry Wire Line
+	6350 4100 6450 4200
+Entry Wire Line
+	6350 5300 6450 5400
+Entry Wire Line
+	6350 5200 6450 5300
+Entry Wire Line
+	6350 5100 6450 5200
+Entry Wire Line
+	6350 5000 6450 5100
+Entry Wire Line
+	6350 4600 6450 4700
+Entry Wire Line
+	6350 4700 6450 4800
+Entry Wire Line
+	6350 4800 6450 4900
+Entry Wire Line
+	6350 4900 6450 5000
+Entry Wire Line
+	5550 3550 5650 3450
+Entry Wire Line
+	4650 3550 4750 3450
+Entry Wire Line
+	4250 3550 4350 3450
+Entry Wire Line
+	3750 3550 3850 3650
+Entry Wire Line
+	4500 3550 4600 3450
+Entry Wire Line
+	3550 3550 3650 3450
+Entry Wire Line
+	4750 3550 4850 3450
+Entry Wire Line
+	3750 3550 3850 3450
+Entry Wire Line
+	4900 3550 5000 3450
+Entry Wire Line
+	3950 3550 4050 3450
+Entry Wire Line
+	5050 3550 5150 3450
+Entry Wire Line
+	4150 3550 4250 3450
+Entry Wire Line
+	4350 3550 4450 3450
+Entry Wire Line
+	3350 3550 3450 3450
+Entry Wire Line
+	5250 3550 5350 3450
+Entry Wire Line
+	4050 3550 4150 3650
+Entry Wire Line
+	3100 4100 3200 4200
+Entry Wire Line
+	3100 4400 3200 4500
+Entry Wire Line
+	3100 4800 3200 4900
+Entry Wire Line
+	3100 5100 3200 5200
+Entry Wire Line
+	3100 6200 3200 6300
+Entry Wire Line
+	3200 6800 3300 6900
+Entry Wire Line
+	3100 7850 3200 7950
+Entry Wire Line
+	3200 4800 3300 4900
+Entry Wire Line
+	3100 5800 3200 5900
+Entry Wire Line
+	3100 7700 3200 7800
+Entry Wire Line
+	3200 6500 3300 6600
+Entry Wire Line
+	3100 5700 3200 5800
+Entry Wire Line
+	3200 5300 3300 5400
+Entry Wire Line
+	3100 4300 3200 4400
+Entry Wire Line
+	3200 5600 3300 5700
+Entry Wire Line
+	3100 3700 3200 3800
+Entry Wire Line
+	3100 3900 3200 4000
+Entry Wire Line
+	3100 3800 3200 3900
+Entry Wire Line
+	3100 4700 3200 4800
+Entry Wire Line
+	3200 5700 3300 5800
+Entry Wire Line
+	3200 5000 3300 5100
+Entry Wire Line
+	3200 5100 3300 5200
+Entry Wire Line
+	3200 5200 3300 5300
+Entry Wire Line
+	3100 5300 3200 5400
+Entry Wire Line
+	3100 5200 3200 5300
+Entry Wire Line
+	3200 5400 3300 5500
+Entry Wire Line
+	3200 6300 3300 6400
+Entry Wire Line
+	3100 6100 3200 6200
+Entry Wire Line
+	3200 6400 3300 6500
+Entry Wire Line
+	3100 6000 3200 6100
+Entry Wire Line
+	3200 6100 3300 6200
+Entry Wire Line
+	3100 8150 3200 8250
+Entry Wire Line
+	3200 6200 3300 6300
+Entry Wire Line
+	3200 6000 3300 6100
+Entry Wire Line
+	3200 5900 3300 6000
+Entry Wire Line
+	4500 8450 4600 8350
+Entry Wire Line
+	4700 8450 4800 8350
+Entry Wire Line
+	4200 8450 4300 8350
+Entry Wire Line
+	6350 2450 6450 2550
+Entry Wire Line
+	6450 3400 6550 3500
+Entry Wire Line
+	6350 2000 6450 2100
+Entry Wire Line
+	3100 2950 3200 3050
+Entry Wire Line
+	3100 3100 3200 3200
+Entry Wire Line
+	8000 2900 8100 2800
+Entry Wire Line
+	7650 2900 7750 2800
+Entry Wire Line
+	6800 2900 6900 2800
+Entry Wire Line
+	8150 3850 8250 3950
+Entry Wire Line
+	8150 7000 8250 7100
+Entry Wire Line
+	8150 3750 8250 3850
+Entry Wire Line
+	8150 5350 8250 5450
+Entry Wire Line
+	8150 3200 8250 3300
+Entry Wire Line
+	8150 4250 8250 4350
+Entry Wire Line
+	8150 4550 8250 4650
+Entry Wire Line
+	8150 4350 8250 4450
+Entry Wire Line
+	8150 4850 8250 4950
+Entry Wire Line
+	8150 4950 8250 5050
+Entry Wire Line
+	8150 4650 8250 4750
+Entry Wire Line
+	8150 4750 8250 4850
+Entry Wire Line
+	8150 3950 8250 4050
+Entry Wire Line
+	8150 4050 8250 4150
+Entry Wire Line
+	8150 4150 8250 4250
+Entry Wire Line
+	8150 5050 8250 5150
+Entry Wire Line
+	8150 3100 8250 3200
+Entry Wire Line
+	8150 4450 8250 4550
+Entry Wire Line
+	9650 3050 9750 3150
+Entry Wire Line
+	9650 2950 9750 3050
+Entry Wire Line
+	9650 2850 9750 2950
+Entry Wire Line
+	9650 2750 9750 2850
+Entry Wire Line
+	12100 2850 12200 2950
+Entry Wire Line
+	12100 2950 12200 3050
+Entry Wire Line
+	12100 3150 12200 3250
+Entry Wire Line
+	12100 3050 12200 3150
+$Comp
+L tft_termo-eagle-import:1056 B1
+U 1 1 99FB3BEE
+P 4300 7900
+AR Path="/99FB3BEE" Ref="B1"  Part="1" 
+AR Path="/5ED25BE8/99FB3BEE" Ref="B1"  Part="1" 
+F 0 "B1" H 4300 7900 50  0001 C CNN
+F 1 "1056" H 4300 7900 50  0001 C CNN
+F 2 "tft_termo:1056" H 4300 7900 50  0001 C CNN
+F 3 "" H 4300 7900 50  0001 C CNN
+	1    4300 7900
+	0    1    1    0   
+$EndComp
+$Comp
+L tft_termo-eagle-import:CAP_0603 C1
+U 1 1 F4F8EA96
+P 7300 6150
+AR Path="/F4F8EA96" Ref="C1"  Part="1" 
+AR Path="/5ED25BE8/F4F8EA96" Ref="C1"  Part="1" 
+F 0 "C1" H 7300 6150 50  0001 C CNN
+F 1 "22p" H 4200 6850 50  0001 L BNN
+F 2 "tft_termo:CAP_0603" H 7300 6150 50  0001 C CNN
+F 3 "" H 7300 6150 50  0001 C CNN
+	1    7300 6150
+	1    0    0    -1  
+$EndComp
+$Comp
+L tft_termo-eagle-import:CAP_0603 C2
+U 1 1 BC7DD4B5
+P 7300 5800
+AR Path="/BC7DD4B5" Ref="C2"  Part="1" 
+AR Path="/5ED25BE8/BC7DD4B5" Ref="C2"  Part="1" 
+F 0 "C2" H 7300 5800 50  0001 C CNN
+F 1 "22p" H 4200 6150 50  0001 L BNN
+F 2 "tft_termo:CAP_0603" H 7300 5800 50  0001 C CNN
+F 3 "" H 7300 5800 50  0001 C CNN
+	1    7300 5800
+	1    0    0    -1  
+$EndComp
+$Comp
+L tft_termo-eagle-import:CAP_0603 C3
+U 1 1 EAADFB67
+P 7400 7950
+AR Path="/EAADFB67" Ref="C3"  Part="1" 
+AR Path="/5ED25BE8/EAADFB67" Ref="C3"  Part="1" 
+F 0 "C3" H 7400 7950 50  0001 C CNN
+F 1 "0.1 uf" H 7400 7950 50  0001 C CNN
+F 2 "tft_termo:CAP_0603" H 7400 7950 50  0001 C CNN
+F 3 "" H 7400 7950 50  0001 C CNN
+	1    7400 7950
+	1    0    0    -1  
+$EndComp
+$Comp
+L tft_termo-eagle-import:CAP_0603 C4
+U 1 1 C80548DD
+P 2000 8450
+AR Path="/C80548DD" Ref="C4"  Part="1" 
+AR Path="/5ED25BE8/C80548DD" Ref="C4"  Part="1" 
+F 0 "C4" H 2000 8450 50  0001 C CNN
+F 1 "0.1 uf" H 2000 8450 50  0001 C CNN
+F 2 "tft_termo:CAP_0603" H 2000 8450 50  0001 C CNN
+F 3 "" H 2000 8450 50  0001 C CNN
+	1    2000 8450
+	1    0    0    -1  
+$EndComp
+$Comp
+L tft_termo-eagle-import:CAP_0603 C5
+U 1 1 195B6278
+P 2700 8450
+AR Path="/195B6278" Ref="C5"  Part="1" 
+AR Path="/5ED25BE8/195B6278" Ref="C5"  Part="1" 
+F 0 "C5" H 2700 8450 50  0001 C CNN
+F 1 "0.1 uf" H 2700 8450 50  0001 C CNN
+F 2 "tft_termo:CAP_0603" H 2700 8450 50  0001 C CNN
+F 3 "" H 2700 8450 50  0001 C CNN
+	1    2700 8450
+	1    0    0    -1  
+$EndComp
+$Comp
+L tft_termo-eagle-import:CAP200RP C6
+U 1 1 D104CCE2
+P 1980 8700
+AR Path="/D104CCE2" Ref="C6"  Part="1" 
+AR Path="/5ED25BE8/D104CCE2" Ref="C6"  Part="1" 
+F 0 "C6" H 1980 8700 50  0001 C CNN
+F 1 "47 uf" H 1980 8700 50  0001 C CNN
+F 2 "tft_termo:CAPPR-5.08_7.62" H 1980 8700 50  0001 C CNN
+F 3 "" H 1980 8700 50  0001 C CNN
+	1    1980 8700
+	1    0    0    -1  
+$EndComp
+$Comp
+L tft_termo-eagle-import:CAP200RP C7
+U 1 1 9680DA35
+P 2680 8700
+AR Path="/9680DA35" Ref="C7"  Part="1" 
+AR Path="/5ED25BE8/9680DA35" Ref="C7"  Part="1" 
+F 0 "C7" H 2680 8700 50  0001 C CNN
+F 1 "47 uf" H 2680 8700 50  0001 C CNN
+F 2 "tft_termo:CAPPR-5.08_7.62" H 2680 8700 50  0001 C CNN
+F 3 "" H 2680 8700 50  0001 C CNN
+	1    2680 8700
+	1    0    0    -1  
+$EndComp
+$Comp
+L tft_termo-eagle-import:CAP_0603 C8
+U 1 1 8257DE2A
+P 6450 6600
+AR Path="/8257DE2A" Ref="C8"  Part="1" 
+AR Path="/5ED25BE8/8257DE2A" Ref="C8"  Part="1" 
+F 0 "C8" H 6450 6600 50  0001 C CNN
+F 1 "0.1 uf" H 6450 6600 50  0001 C CNN
+F 2 "tft_termo:CAP_0603" H 6450 6600 50  0001 C CNN
+F 3 "" H 6450 6600 50  0001 C CNN
+	1    6450 6600
+	-1   0    0    1   
+$EndComp
+$Comp
+L tft_termo-eagle-import:CAP_0603 C9
+U 1 1 C7A08DFE
+P 6450 6800
+AR Path="/C7A08DFE" Ref="C9"  Part="1" 
+AR Path="/5ED25BE8/C7A08DFE" Ref="C9"  Part="1" 
+F 0 "C9" H 6450 6800 50  0001 C CNN
+F 1 "0.1 uf" H 6450 6800 50  0001 C CNN
+F 2 "tft_termo:CAP_0603" H 6450 6800 50  0001 C CNN
+F 3 "" H 6450 6800 50  0001 C CNN
+	1    6450 6800
+	-1   0    0    1   
+$EndComp
+$Comp
+L tft_termo-eagle-import:CAP_0603 C10
+U 1 1 5FD308F1
+P 6450 7000
+AR Path="/5FD308F1" Ref="C10"  Part="1" 
+AR Path="/5ED25BE8/5FD308F1" Ref="C10"  Part="1" 
+F 0 "C10" H 6450 7000 50  0001 C CNN
+F 1 "0.1 uf" H 6450 7000 50  0001 C CNN
+F 2 "tft_termo:CAP_0603" H 6450 7000 50  0001 C CNN
+F 3 "" H 6450 7000 50  0001 C CNN
+	1    6450 7000
+	-1   0    0    1   
+$EndComp
+$Comp
+L tft_termo-eagle-import:CAP_0603 C11
+U 1 1 B92DD762
+P 6450 7200
+AR Path="/B92DD762" Ref="C11"  Part="1" 
+AR Path="/5ED25BE8/B92DD762" Ref="C11"  Part="1" 
+F 0 "C11" H 6450 7200 50  0001 C CNN
+F 1 "0.1 uf" H 6450 7200 50  0001 C CNN
+F 2 "tft_termo:CAP_0603" H 6450 7200 50  0001 C CNN
+F 3 "" H 6450 7200 50  0001 C CNN
+	1    6450 7200
+	-1   0    0    1   
+$EndComp
+$Comp
+L tft_termo-eagle-import:CAP_0603 C12
+U 1 1 B26E7E3F
+P 2400 3400
+AR Path="/B26E7E3F" Ref="C12"  Part="1" 
+AR Path="/5ED25BE8/B26E7E3F" Ref="C12"  Part="1" 
+F 0 "C12" H 2400 3400 50  0001 C CNN
+F 1 "0.1 uf" H 2400 3400 50  0001 C CNN
+F 2 "tft_termo:CAP_0603" H 2400 3400 50  0001 C CNN
+F 3 "" H 2400 3400 50  0001 C CNN
+	1    2400 3400
+	1    0    0    -1  
+$EndComp
+$Comp
+L tft_termo-eagle-import:LED D1
+U 1 1 8D141E84
+P 3530 7830
+AR Path="/8D141E84" Ref="D1"  Part="1" 
+AR Path="/5ED25BE8/8D141E84" Ref="D1"  Part="1" 
+F 0 "D1" H 3530 7830 50  0001 C CNN
+F 1 "LED" H 3530 7830 50  0001 C CNN
+F 2 "tft_termo:LED100" H 3530 7830 50  0001 C CNN
+F 3 "" H 3530 7830 50  0001 C CNN
+	1    3530 7830
+	0    1    1    0   
+$EndComp
+$Comp
+L tft_termo-eagle-import:LED D2
+U 1 1 20478EC3
+P 3880 7830
+AR Path="/20478EC3" Ref="D2"  Part="1" 
+AR Path="/5ED25BE8/20478EC3" Ref="D2"  Part="1" 
+F 0 "D2" H 3880 7830 50  0001 C CNN
+F 1 "LED" H 3880 7830 50  0001 C CNN
+F 2 "tft_termo:LED100" H 3880 7830 50  0001 C CNN
+F 3 "" H 3880 7830 50  0001 C CNN
+	1    3880 7830
+	0    1    1    0   
+$EndComp
+$Comp
+L tft_termo-eagle-import:PBS_2 HITING
+U 1 1 164164FE
+P 1075 4350
+AR Path="/164164FE" Ref="HITING"  Part="1" 
+AR Path="/5ED25BE8/164164FE" Ref="HITING1"  Part="1" 
+F 0 "HITING1" H 1075 4350 50  0001 C CNN
+F 1 "HITING" H -2050 5450 50  0001 R TNN
+F 2 "tft_termo:PBS_2" H 1075 4350 50  0001 C CNN
+F 3 "" H 1075 4350 50  0001 C CNN
+	1    1075 4350
+	-1   0    0    1   
+$EndComp
+$Comp
+L tft_termo-eagle-import:KEY_6X6 K1
+U 1 1 46E35674
+P 7464 8422
+AR Path="/46E35674" Ref="K1"  Part="1" 
+AR Path="/5ED25BE8/46E35674" Ref="K1"  Part="1" 
+F 0 "K1" H 7464 8422 50  0001 C CNN
+F 1 "KEY_6X6" H 7464 8422 50  0001 C CNN
+F 2 "tft_termo:KEY_6x6" H 7464 8422 50  0001 C CNN
+F 3 "" H 7464 8422 50  0001 C CNN
+	1    7464 8422
+	1    0    0    -1  
+$EndComp
+$Comp
+L tft_termo-eagle-import:AST-1732MR-R LS1
+U 1 1 CB84500A
+P 5600 1750
+AR Path="/CB84500A" Ref="LS1"  Part="1" 
+AR Path="/5ED25BE8/CB84500A" Ref="LS1"  Part="1" 
+F 0 "LS1" H 5600 1750 50  0001 C CNN
+F 1 "AST-1732MR-R" H 5600 1750 50  0001 C CNN
+F 2 "tft_termo:AST-01708" H 5600 1750 50  0001 C CNN
+F 3 "" H 5600 1750 50  0001 C CNN
+	1    5600 1750
+	-1   0    0    1   
+$EndComp
+$Comp
+L tft_termo-eagle-import:300_2_5 POWER
+U 1 1 C373A6C2
+P 1075 7900
+AR Path="/C373A6C2" Ref="POWER"  Part="1" 
+AR Path="/5ED25BE8/C373A6C2" Ref="POWER1"  Part="1" 
+F 0 "POWER1" H 1075 7900 50  0001 C CNN
+F 1 "POWER" H -2050 5450 50  0001 R TNN
+F 2 "tft_termo:300_2_5" H 1075 7900 50  0001 C CNN
+F 3 "" H 1075 7900 50  0001 C CNN
+	1    1075 7900
+	-1   0    0    1   
+$EndComp
+$Comp
+L tft_termo-eagle-import:PBS_6 PROGRAM
+U 1 1 BF1C5972
+P 1075 5950
+AR Path="/BF1C5972" Ref="PROGRAM"  Part="1" 
+AR Path="/5ED25BE8/BF1C5972" Ref="PROGRAM1"  Part="1" 
+F 0 "PROGRAM1" H 1075 5950 50  0001 C CNN
+F 1 "PROGRAM" H -2050 5450 50  0001 R TNN
+F 2 "tft_termo:PBS_6" H 1075 5950 50  0001 C CNN
+F 3 "" H 1075 5950 50  0001 C CNN
+	1    1075 5950
+	-1   0    0    1   
+$EndComp
+$Comp
+L tft_termo-eagle-import:BC846ALT1 Q1
+U 1 1 7A211019
+P 5950 2150
+AR Path="/7A211019" Ref="Q1"  Part="1" 
+AR Path="/5ED25BE8/7A211019" Ref="Q1"  Part="1" 
+F 0 "Q1" H 5950 2150 50  0001 C CNN
+F 1 "BC846ALT1" H 5950 2150 50  0001 C CNN
+F 2 "tft_termo:SOT23" H 5950 2150 50  0001 C CNN
+F 3 "" H 5950 2150 50  0001 C CNN
+	1    5950 2150
+	1    0    0    -1  
+$EndComp
+$Comp
+L tft_termo-eagle-import:RES_0603 R1
+U 1 1 70C418DB
+P 6950 7550
+AR Path="/70C418DB" Ref="R1"  Part="1" 
+AR Path="/5ED25BE8/70C418DB" Ref="R1"  Part="1" 
+F 0 "R1" H 6950 7550 50  0001 C CNN
+F 1 "4K7" H 4200 9650 50  0001 L BNN
+F 2 "tft_termo:RES_0603" H 6950 7550 50  0001 C CNN
+F 3 "" H 6950 7550 50  0001 C CNN
+	1    6950 7550
+	1    0    0    -1  
+$EndComp
+$Comp
+L tft_termo-eagle-import:RES_0603 R2
+U 1 1 C6E12B72
+P 4450 2800
+AR Path="/C6E12B72" Ref="R2"  Part="1" 
+AR Path="/5ED25BE8/C6E12B72" Ref="R2"  Part="1" 
+F 0 "R2" H 4450 2800 50  0001 C CNN
+F 1 "120" H 4450 2800 50  0001 C CNN
+F 2 "tft_termo:RES_0603" H 4450 2800 50  0001 C CNN
+F 3 "" H 4450 2800 50  0001 C CNN
+	1    4450 2800
+	0    1    1    0   
+$EndComp
+$Comp
+L tft_termo-eagle-import:RES_0603 R5
+U 1 1 CE1A07C4
+P 6950 3500
+AR Path="/CE1A07C4" Ref="R5"  Part="1" 
+AR Path="/5ED25BE8/CE1A07C4" Ref="R5"  Part="1" 
+F 0 "R5" H 6950 3500 50  0001 C CNN
+F 1 "4K7" H 4200 1550 50  0001 L BNN
+F 2 "tft_termo:RES_0603" H 6950 3500 50  0001 C CNN
+F 3 "" H 6950 3500 50  0001 C CNN
+	1    6950 3500
+	1    0    0    -1  
+$EndComp
+$Comp
+L tft_termo-eagle-import:RES_0603 R6
+U 1 1 5F990599
+P 5350 2550
+AR Path="/5F990599" Ref="R6"  Part="1" 
+AR Path="/5ED25BE8/5F990599" Ref="R6"  Part="1" 
+F 0 "R6" H 5350 2550 50  0001 C CNN
+F 1 "4K7" V 2450 3700 50  0001 R TNN
+F 2 "tft_termo:RES_0603" H 5350 2550 50  0001 C CNN
+F 3 "" H 5350 2550 50  0001 C CNN
+	1    5350 2550
+	0    -1   -1   0   
+$EndComp
+$Comp
+L tft_termo-eagle-import:RES_0603 R7
+U 1 1 5D6377AE
+P 5650 2550
+AR Path="/5D6377AE" Ref="R7"  Part="1" 
+AR Path="/5ED25BE8/5D6377AE" Ref="R7"  Part="1" 
+F 0 "R7" H 5650 2550 50  0001 C CNN
+F 1 "47k" V 2750 4000 50  0001 R TNN
+F 2 "tft_termo:RES_0603" H 5650 2550 50  0001 C CNN
+F 3 "" H 5650 2550 50  0001 C CNN
+	1    5650 2550
+	0    -1   -1   0   
+$EndComp
+$Comp
+L tft_termo-eagle-import:RES_0603 R8
+U 1 1 20832B66
+P 3500 7050
+AR Path="/20832B66" Ref="R8"  Part="1" 
+AR Path="/5ED25BE8/20832B66" Ref="R8"  Part="1" 
+F 0 "R8" H 3500 7050 50  0001 C CNN
+F 1 "330" H 3500 7050 50  0001 C CNN
+F 2 "tft_termo:RES_0603" H 3500 7050 50  0001 C CNN
+F 3 "" H 3500 7050 50  0001 C CNN
+	1    3500 7050
+	0    -1   -1   0   
+$EndComp
+$Comp
+L tft_termo-eagle-import:RES_0603 R9
+U 1 1 3CB1307B
+P 3850 7050
+AR Path="/3CB1307B" Ref="R9"  Part="1" 
+AR Path="/5ED25BE8/3CB1307B" Ref="R9"  Part="1" 
+F 0 "R9" H 3850 7050 50  0001 C CNN
+F 1 "330" H 3850 7050 50  0001 C CNN
+F 2 "tft_termo:RES_0603" H 3850 7050 50  0001 C CNN
+F 3 "" H 3850 7050 50  0001 C CNN
+	1    3850 7050
+	0    -1   -1   0   
+$EndComp
+$Comp
+L tft_termo-eagle-import:PBS_3 TERMOCOP
+U 1 1 A04C7E8B
+P 1075 3900
+AR Path="/A04C7E8B" Ref="TERMOCOP"  Part="1" 
+AR Path="/5ED25BE8/A04C7E8B" Ref="TERMOCOP1"  Part="1" 
+F 0 "TERMOCOP1" H 1075 3900 50  0001 C CNN
+F 1 "TERMOCOP" H 4200 2350 50  0001 L BNN
+F 2 "tft_termo:PBS_3" H 1075 3900 50  0001 C CNN
+F 3 "" H 1075 3900 50  0001 C CNN
+	1    1075 3900
+	1    0    0    -1  
+$EndComp
+$Comp
+L tft_termo-eagle-import:STM32F302CBT6 U1
+U 1 1 F9562130
+P 4950 5200
+AR Path="/F9562130" Ref="U1"  Part="1" 
+AR Path="/5ED25BE8/F9562130" Ref="U1"  Part="1" 
+F 0 "U1" H 4950 5200 50  0001 C CNN
+F 1 "STM32F302CBT6" H 4950 5200 50  0001 C CNN
+F 2 "tft_termo:QFP-48_9x9x0.5" H 4950 5200 50  0001 C CNN
+F 3 "" H 4950 5200 50  0001 C CNN
+	1    4950 5200
+	1    0    0    -1  
+$EndComp
+$Comp
+L tft_termo-eagle-import:MAX6675ISA U2
+U 1 1 C2DEB937
+P 2300 3900
+AR Path="/C2DEB937" Ref="U2"  Part="1" 
+AR Path="/5ED25BE8/C2DEB937" Ref="U2"  Part="1" 
+F 0 "U2" H 2300 3900 50  0001 C CNN
+F 1 "MAX6675ISA" H 2300 3900 50  0001 C CNN
+F 2 "tft_termo:SOIC-8_150mil" H 2300 3900 50  0001 C CNN
+F 3 "" H 2300 3900 50  0001 C CNN
+	1    2300 3900
+	1    0    0    -1  
+$EndComp
+$Comp
+L tft_termo-eagle-import:NCP1117 U3
+U 1 1 9A04CEE8
+P 2150 7150
+AR Path="/9A04CEE8" Ref="U3"  Part="1" 
+AR Path="/5ED25BE8/9A04CEE8" Ref="U3"  Part="1" 
+F 0 "U3" H 2150 7150 50  0001 C CNN
+F 1 "NCP1117" H 2150 7150 50  0001 C CNN
+F 2 "tft_termo:SOT-223" H 2150 7150 50  0001 C CNN
+F 3 "" H 2150 7150 50  0001 C CNN
+	1    2150 7150
+	1    0    0    -1  
+$EndComp
+$Comp
+L tft_termo-eagle-import:PBS_3_15 UART
+U 1 1 4A5B13D6
+P 1075 5200
+AR Path="/4A5B13D6" Ref="UART"  Part="1" 
+AR Path="/5ED25BE8/4A5B13D6" Ref="UART1"  Part="1" 
+F 0 "UART1" H 1075 5200 50  0001 C CNN
+F 1 "USART" H -2050 5450 50  0001 R TNN
+F 2 "tft_termo:PBS_3" H 1075 5200 50  0001 C CNN
+F 3 "" H 1075 5200 50  0001 C CNN
+	1    1075 5200
+	-1   0    0    1   
+$EndComp
+$Comp
+L tft_termo-eagle-import:PBS_4 XS1
+U 1 1 F204F755
+P 4900 1825
+AR Path="/F204F755" Ref="XS1"  Part="1" 
+AR Path="/5ED25BE8/F204F755" Ref="XS1"  Part="1" 
+F 0 "XS1" H 4900 1825 50  0001 C CNN
+F 1 "PBS_4" H 4900 1825 50  0001 C CNN
+F 2 "tft_termo:PBS_4" H 4900 1825 50  0001 C CNN
+F 3 "" H 4900 1825 50  0001 C CNN
+	1    4900 1825
+	0    -1   -1   0   
+$EndComp
+$Comp
+L tft_termo-eagle-import:PBS_3_15 XS2
+U 1 1 172CB747
+P 4450 1825
+AR Path="/172CB747" Ref="XS2"  Part="1" 
+AR Path="/5ED25BE8/172CB747" Ref="XS2"  Part="1" 
+F 0 "XS2" H 4450 1825 50  0001 C CNN
+F 1 "PBS_3_15" H 4450 1825 50  0001 C CNN
+F 2 "tft_termo:PBS_3" H 4450 1825 50  0001 C CNN
+F 3 "" H 4450 1825 50  0001 C CNN
+	1    4450 1825
+	0    -1   -1   0   
+$EndComp
+$Comp
+L tft_termo-eagle-import:NX5032GA Y1
+U 1 1 78E54D96
+P 6866 6150
+AR Path="/78E54D96" Ref="Y1"  Part="1" 
+AR Path="/5ED25BE8/78E54D96" Ref="Y1"  Part="1" 
+F 0 "Y1" H 6866 6150 50  0001 C CNN
+F 1 "8MHz" H 6866 6150 50  0001 C CNN
+F 2 "tft_termo:NX5032GA" H 6866 6150 50  0001 C CNN
+F 3 "" H 6866 6150 50  0001 C CNN
+	1    6866 6150
+	1    0    0    -1  
+$EndComp
+$Comp
+L tft_termo-eagle-import:NX3215SA Y2
+U 1 1 F39F5038
+P 6116 5700
+AR Path="/F39F5038" Ref="Y2"  Part="1" 
+AR Path="/5ED25BE8/F39F5038" Ref="Y2"  Part="1" 
+F 0 "Y2" H 6116 5700 50  0001 C CNN
+F 1 "NX3215SA-32.768K" H 6116 5700 50  0001 C CNN
+F 2 "tft_termo:NX3215SA-32.768K" H 6116 5700 50  0001 C CNN
+F 3 "" H 6116 5700 50  0001 C CNN
+	1    6116 5700
+	1    0    0    -1  
+$EndComp
+$Comp
+L tft_termo-eagle-import:PBS_2 ZERRO
+U 1 1 12570C6B
+P 1075 4750
+AR Path="/12570C6B" Ref="ZERRO"  Part="1" 
+AR Path="/5ED25BE8/12570C6B" Ref="ZERRO1"  Part="1" 
+F 0 "ZERRO1" H 1075 4750 50  0001 C CNN
+F 1 "ZERRO" H -2050 5450 50  0001 R TNN
+F 2 "tft_termo:PBS_2" H 1075 4750 50  0001 C CNN
+F 3 "" H 1075 4750 50  0001 C CNN
+	1    1075 4750
+	-1   0    0    1   
+$EndComp
+$Comp
+L tft_termo-eagle-import:RES_0603 R4
+U 1 1 DF81EF60
+P 4850 2800
+AR Path="/DF81EF60" Ref="R4"  Part="1" 
+AR Path="/5ED25BE8/DF81EF60" Ref="R4"  Part="1" 
+F 0 "R4" H 4850 2800 50  0001 C CNN
+F 1 "120" H 4850 2800 50  0001 C CNN
+F 2 "tft_termo:RES_0603" H 4850 2800 50  0001 C CNN
+F 3 "" H 4850 2800 50  0001 C CNN
+	1    4850 2800
+	0    1    1    0   
+$EndComp
+$Comp
+L tft_termo-eagle-import:RES_0603 R10
+U 1 1 4D5B9245
+P 5150 2800
+AR Path="/4D5B9245" Ref="R10"  Part="1" 
+AR Path="/5ED25BE8/4D5B9245" Ref="R10"  Part="1" 
+F 0 "R10" H 5150 2800 50  0001 C CNN
+F 1 "120" H 5150 2800 50  0001 C CNN
+F 2 "tft_termo:RES_0603" H 5150 2800 50  0001 C CNN
+F 3 "" H 5150 2800 50  0001 C CNN
+	1    5150 2800
+	0    1    1    0   
+$EndComp
+$Comp
+L tft_termo-eagle-import:RES_0603 R11
+U 1 1 FB79D226
+P 5000 2800
+AR Path="/FB79D226" Ref="R11"  Part="1" 
+AR Path="/5ED25BE8/FB79D226" Ref="R11"  Part="1" 
+F 0 "R11" H 5000 2800 50  0001 C CNN
+F 1 "120" H 5000 2800 50  0001 C CNN
+F 2 "tft_termo:RES_0603" H 5000 2800 50  0001 C CNN
+F 3 "" H 5000 2800 50  0001 C CNN
+	1    5000 2800
+	0    1    1    0   
+$EndComp
+$Comp
+L tft_termo-eagle-import:RES_0603 R12
+U 1 1 49D0E30E
+P 4600 2800
+AR Path="/49D0E30E" Ref="R12"  Part="1" 
+AR Path="/5ED25BE8/49D0E30E" Ref="R12"  Part="1" 
+F 0 "R12" H 4600 2800 50  0001 C CNN
+F 1 "120" H 4600 2800 50  0001 C CNN
+F 2 "tft_termo:RES_0603" H 4600 2800 50  0001 C CNN
+F 3 "" H 4600 2800 50  0001 C CNN
+	1    4600 2800
+	0    1    1    0   
+$EndComp
+$Comp
+L tft_termo-eagle-import:CAP_0603 C13
+U 1 1 7AB06228
+P 4050 3050
+AR Path="/7AB06228" Ref="C13"  Part="1" 
+AR Path="/5ED25BE8/7AB06228" Ref="C13"  Part="1" 
+F 0 "C13" H 4050 3050 50  0001 C CNN
+F 1 "0.1 uf" H 4050 3050 50  0001 C CNN
+F 2 "tft_termo:CAP_0603" H 4050 3050 50  0001 C CNN
+F 3 "" H 4050 3050 50  0001 C CNN
+	1    4050 3050
+	0    -1   -1   0   
+$EndComp
+$Comp
+L tft_termo-eagle-import:CAP_0603 C14
+U 1 1 9E65A0C4
+P 3850 3050
+AR Path="/9E65A0C4" Ref="C14"  Part="1" 
+AR Path="/5ED25BE8/9E65A0C4" Ref="C14"  Part="1" 
+F 0 "C14" H 3850 3050 50  0001 C CNN
+F 1 "0.1 uf" H 3850 3050 50  0001 C CNN
+F 2 "tft_termo:CAP_0603" H 3850 3050 50  0001 C CNN
+F 3 "" H 3850 3050 50  0001 C CNN
+	1    3850 3050
+	0    -1   -1   0   
+$EndComp
+$Comp
+L tft_termo-eagle-import:CAP_0603 C15
+U 1 1 7DA4C082
+P 3650 3050
+AR Path="/7DA4C082" Ref="C15"  Part="1" 
+AR Path="/5ED25BE8/7DA4C082" Ref="C15"  Part="1" 
+F 0 "C15" H 3650 3050 50  0001 C CNN
+F 1 "0.1 uf" H 3650 3050 50  0001 C CNN
+F 2 "tft_termo:CAP_0603" H 3650 3050 50  0001 C CNN
+F 3 "" H 3650 3050 50  0001 C CNN
+	1    3650 3050
+	0    -1   -1   0   
+$EndComp
+$Comp
+L tft_termo-eagle-import:CAP_0603 C16
+U 1 1 024C2F09
+P 3450 3050
+AR Path="/024C2F09" Ref="C16"  Part="1" 
+AR Path="/5ED25BE8/024C2F09" Ref="C16"  Part="1" 
+F 0 "C16" H 3450 3050 50  0001 C CNN
+F 1 "0.1 uf" H 3450 3050 50  0001 C CNN
+F 2 "tft_termo:CAP_0603" H 3450 3050 50  0001 C CNN
+F 3 "" H 3450 3050 50  0001 C CNN
+	1    3450 3050
+	0    -1   -1   0   
+$EndComp
+$Comp
+L tft_termo-eagle-import:CAP_0603 C17
+U 1 1 D879C9D7
+P 4250 3050
+AR Path="/D879C9D7" Ref="C17"  Part="1" 
+AR Path="/5ED25BE8/D879C9D7" Ref="C17"  Part="1" 
+F 0 "C17" H 4250 3050 50  0001 C CNN
+F 1 "0.1 uf" H 4250 3050 50  0001 C CNN
+F 2 "tft_termo:CAP_0603" H 4250 3050 50  0001 C CNN
+F 3 "" H 4250 3050 50  0001 C CNN
+	1    4250 3050
+	0    -1   -1   0   
+$EndComp
+$Comp
+L tft_termo-eagle-import:TFT_2.4 LCD1
+U 1 1 2F0A2ED2
+P 9925 4488
+AR Path="/2F0A2ED2" Ref="LCD1"  Part="1" 
+AR Path="/5ED25BE8/2F0A2ED2" Ref="LCD1"  Part="1" 
+F 0 "LCD1" H 9925 4488 50  0001 C CNN
+F 1 "TFT_2.4" H 9925 4488 50  0001 C CNN
+F 2 "tft_termo:TFT_LCD_2_4" H 9925 4488 50  0001 C CNN
+F 3 "" H 9925 4488 50  0001 C CNN
+	1    9925 4488
+	1    0    0    -1  
+$EndComp
+$Comp
+L tft_termo-eagle-import:RES_0603 R3
+U 1 1 615FECB9
+P 8850 4050
+AR Path="/615FECB9" Ref="R3"  Part="1" 
+AR Path="/5ED25BE8/615FECB9" Ref="R3"  Part="1" 
+F 0 "R3" H 8850 4050 50  0001 C CNN
+F 1 "120" H 8850 4050 50  0001 C CNN
+F 2 "tft_termo:RES_0603" H 8850 4050 50  0001 C CNN
+F 3 "" H 8850 4050 50  0001 C CNN
+	1    8850 4050
+	1    0    0    -1  
+$EndComp
+$Comp
+L tft_termo-eagle-import:RES_0603 R13
+U 1 1 99BE9962
+P 8850 4150
+AR Path="/99BE9962" Ref="R13"  Part="1" 
+AR Path="/5ED25BE8/99BE9962" Ref="R13"  Part="1" 
+F 0 "R13" H 8850 4150 50  0001 C CNN
+F 1 "120" H 8850 4150 50  0001 C CNN
+F 2 "tft_termo:RES_0603" H 8850 4150 50  0001 C CNN
+F 3 "" H 8850 4150 50  0001 C CNN
+	1    8850 4150
+	1    0    0    -1  
+$EndComp
+$Comp
+L tft_termo-eagle-import:RES_0603 R14
+U 1 1 62F1D722
+P 8850 4250
+AR Path="/62F1D722" Ref="R14"  Part="1" 
+AR Path="/5ED25BE8/62F1D722" Ref="R14"  Part="1" 
+F 0 "R14" H 8850 4250 50  0001 C CNN
+F 1 "120" H 8850 4250 50  0001 C CNN
+F 2 "tft_termo:RES_0603" H 8850 4250 50  0001 C CNN
+F 3 "" H 8850 4250 50  0001 C CNN
+	1    8850 4250
+	1    0    0    -1  
+$EndComp
+$Comp
+L tft_termo-eagle-import:RES_0603 R15
+U 1 1 C6590033
+P 8850 4350
+AR Path="/C6590033" Ref="R15"  Part="1" 
+AR Path="/5ED25BE8/C6590033" Ref="R15"  Part="1" 
+F 0 "R15" H 8850 4350 50  0001 C CNN
+F 1 "120" H 8850 4350 50  0001 C CNN
+F 2 "tft_termo:RES_0603" H 8850 4350 50  0001 C CNN
+F 3 "" H 8850 4350 50  0001 C CNN
+	1    8850 4350
+	1    0    0    -1  
+$EndComp
+$Comp
+L tft_termo-eagle-import:RES_0603 R16
+U 1 1 92F86450
+P 8850 4450
+AR Path="/92F86450" Ref="R16"  Part="1" 
+AR Path="/5ED25BE8/92F86450" Ref="R16"  Part="1" 
+F 0 "R16" H 8850 4450 50  0001 C CNN
+F 1 "120" H 8850 4450 50  0001 C CNN
+F 2 "tft_termo:RES_0603" H 8850 4450 50  0001 C CNN
+F 3 "" H 8850 4450 50  0001 C CNN
+	1    8850 4450
+	1    0    0    -1  
+$EndComp
+$Comp
+L tft_termo-eagle-import:RES_0603 R17
+U 1 1 9C245681
+P 8850 4650
+AR Path="/9C245681" Ref="R17"  Part="1" 
+AR Path="/5ED25BE8/9C245681" Ref="R17"  Part="1" 
+F 0 "R17" H 8850 4650 50  0001 C CNN
+F 1 "120" H 8850 4650 50  0001 C CNN
+F 2 "tft_termo:RES_0603" H 8850 4650 50  0001 C CNN
+F 3 "" H 8850 4650 50  0001 C CNN
+	1    8850 4650
+	1    0    0    -1  
+$EndComp
+$Comp
+L tft_termo-eagle-import:RES_0603 R18
+U 1 1 2D5AEDDC
+P 8850 4750
+AR Path="/2D5AEDDC" Ref="R18"  Part="1" 
+AR Path="/5ED25BE8/2D5AEDDC" Ref="R18"  Part="1" 
+F 0 "R18" H 8850 4750 50  0001 C CNN
+F 1 "120" H 8850 4750 50  0001 C CNN
+F 2 "tft_termo:RES_0603" H 8850 4750 50  0001 C CNN
+F 3 "" H 8850 4750 50  0001 C CNN
+	1    8850 4750
+	1    0    0    -1  
+$EndComp
+$Comp
+L tft_termo-eagle-import:RES_0603 R19
+U 1 1 2E092891
+P 8850 4850
+AR Path="/2E092891" Ref="R19"  Part="1" 
+AR Path="/5ED25BE8/2E092891" Ref="R19"  Part="1" 
+F 0 "R19" H 8850 4850 50  0001 C CNN
+F 1 "120" H 8850 4850 50  0001 C CNN
+F 2 "tft_termo:RES_0603" H 8850 4850 50  0001 C CNN
+F 3 "" H 8850 4850 50  0001 C CNN
+	1    8850 4850
+	1    0    0    -1  
+$EndComp
+$Comp
+L tft_termo-eagle-import:RES_0603 R20
+U 1 1 E2B316DC
+P 8850 4950
+AR Path="/E2B316DC" Ref="R20"  Part="1" 
+AR Path="/5ED25BE8/E2B316DC" Ref="R20"  Part="1" 
+F 0 "R20" H 8850 4950 50  0001 C CNN
+F 1 "120" H 8850 4950 50  0001 C CNN
+F 2 "tft_termo:RES_0603" H 8850 4950 50  0001 C CNN
+F 3 "" H 8850 4950 50  0001 C CNN
+	1    8850 4950
+	1    0    0    -1  
+$EndComp
+$Comp
+L tft_termo-eagle-import:RES_0603 R21
+U 1 1 DA89D15E
+P 8850 5050
+AR Path="/DA89D15E" Ref="R21"  Part="1" 
+AR Path="/5ED25BE8/DA89D15E" Ref="R21"  Part="1" 
+F 0 "R21" H 8850 5050 50  0001 C CNN
+F 1 "120" H 8850 5050 50  0001 C CNN
+F 2 "tft_termo:RES_0603" H 8850 5050 50  0001 C CNN
+F 3 "" H 8850 5050 50  0001 C CNN
+	1    8850 5050
+	1    0    0    -1  
+$EndComp
+$Comp
+L tft_termo-eagle-import:RES_0603 R22
+U 1 1 0E7DD018
+P 8850 5150
+AR Path="/0E7DD018" Ref="R22"  Part="1" 
+AR Path="/5ED25BE8/0E7DD018" Ref="R22"  Part="1" 
+F 0 "R22" H 8850 5150 50  0001 C CNN
+F 1 "120" H 8850 5150 50  0001 C CNN
+F 2 "tft_termo:RES_0603" H 8850 5150 50  0001 C CNN
+F 3 "" H 8850 5150 50  0001 C CNN
+	1    8850 5150
+	1    0    0    -1  
+$EndComp
+$Comp
+L tft_termo-eagle-import:RES_0603 R23
+U 1 1 18259785
+P 9400 5900
+AR Path="/18259785" Ref="R23"  Part="1" 
+AR Path="/5ED25BE8/18259785" Ref="R23"  Part="1" 
+F 0 "R23" H 9400 5900 50  0001 C CNN
+F 1 "10k" H 9400 5900 50  0001 C CNN
+F 2 "tft_termo:RES_0603" H 9400 5900 50  0001 C CNN
+F 3 "" H 9400 5900 50  0001 C CNN
+	1    9400 5900
+	0    -1   -1   0   
+$EndComp
+$Comp
+L tft_termo-eagle-import:RES_0603 R24
+U 1 1 AE0241E3
+P 9400 6700
+AR Path="/AE0241E3" Ref="R24"  Part="1" 
+AR Path="/5ED25BE8/AE0241E3" Ref="R24"  Part="1" 
+F 0 "R24" H 9400 6700 50  0001 C CNN
+F 1 "10k" H 9400 6700 50  0001 C CNN
+F 2 "tft_termo:RES_0603" H 9400 6700 50  0001 C CNN
+F 3 "" H 9400 6700 50  0001 C CNN
+	1    9400 6700
+	0    -1   -1   0   
+$EndComp
+$Comp
+L tft_termo-eagle-import:BC846ALT1 Q2
+U 1 1 DA191B3C
+P 8050 1850
+AR Path="/DA191B3C" Ref="Q2"  Part="1" 
+AR Path="/5ED25BE8/DA191B3C" Ref="Q2"  Part="1" 
+F 0 "Q2" H 8050 1850 50  0001 C CNN
+F 1 "BC846ALT1" H 8050 1850 50  0001 C CNN
+F 2 "tft_termo:SOT23" H 8050 1850 50  0001 C CNN
+F 3 "" H 8050 1850 50  0001 C CNN
+	1    8050 1850
+	1    0    0    -1  
+$EndComp
+$Comp
+L tft_termo-eagle-import:RES_0603 R25
+U 1 1 78F58F3B
+P 7350 1850
+AR Path="/78F58F3B" Ref="R25"  Part="1" 
+AR Path="/5ED25BE8/78F58F3B" Ref="R25"  Part="1" 
+F 0 "R25" H 7350 1850 50  0001 C CNN
+F 1 "4k7" H 7350 1850 50  0001 C CNN
+F 2 "tft_termo:RES_0603" H 7350 1850 50  0001 C CNN
+F 3 "" H 7350 1850 50  0001 C CNN
+	1    7350 1850
+	1    0    0    -1  
+$EndComp
+$Comp
+L tft_termo-eagle-import:RES_0603 R26
+U 1 1 788CEEEC
+P 7750 2350
+AR Path="/788CEEEC" Ref="R26"  Part="1" 
+AR Path="/5ED25BE8/788CEEEC" Ref="R26"  Part="1" 
+F 0 "R26" H 7750 2350 50  0001 C CNN
+F 1 "47k" H 7750 2350 50  0001 C CNN
+F 2 "tft_termo:RES_0603" H 7750 2350 50  0001 C CNN
+F 3 "" H 7750 2350 50  0001 C CNN
+	1    7750 2350
+	0    -1   -1   0   
+$EndComp
+$Comp
+L tft_termo-eagle-import:RES_0603 R27
+U 1 1 88B9BB13
+P 8100 1100
+AR Path="/88B9BB13" Ref="R27"  Part="1" 
+AR Path="/5ED25BE8/88B9BB13" Ref="R27"  Part="1" 
+F 0 "R27" H 8100 1100 50  0001 C CNN
+F 1 "4k7" H 8100 1100 50  0001 C CNN
+F 2 "tft_termo:RES_0603" H 8100 1100 50  0001 C CNN
+F 3 "" H 8100 1100 50  0001 C CNN
+	1    8100 1100
+	0    -1   -1   0   
+$EndComp
+$Comp
+L tft_termo-eagle-import:W25Q32 D3
+U 1 1 39967F7A
+P 10950 3004
+AR Path="/39967F7A" Ref="D3"  Part="1" 
+AR Path="/5ED25BE8/39967F7A" Ref="D3"  Part="1" 
+F 0 "D3" H 10950 3004 50  0001 C CNN
+F 1 "W25Q32" H 10950 3004 50  0001 C CNN
+F 2 "tft_termo:W25Q32" H 10950 3004 50  0001 C CNN
+F 3 "" H 10950 3004 50  0001 C CNN
+	1    10950 3004
+	1    0    0    -1  
+$EndComp
+$Comp
+L tft_termo-eagle-import:RES_0603 R28
+U 1 1 211F8F6E
+P 11700 2950
+AR Path="/211F8F6E" Ref="R28"  Part="1" 
+AR Path="/5ED25BE8/211F8F6E" Ref="R28"  Part="1" 
+F 0 "R28" H 11700 2950 50  0001 C CNN
+F 1 "10k" H 11700 2950 50  0001 C CNN
+F 2 "tft_termo:RES_0603" H 11700 2950 50  0001 C CNN
+F 3 "" H 11700 2950 50  0001 C CNN
+	1    11700 2950
+	1    0    0    -1  
+$EndComp
+$Comp
+L tft_termo-eagle-import:RES_0603 R29
+U 1 1 9E817A10
+P 10150 3050
+AR Path="/9E817A10" Ref="R29"  Part="1" 
+AR Path="/5ED25BE8/9E817A10" Ref="R29"  Part="1" 
+F 0 "R29" H 10150 3050 50  0001 C CNN
+F 1 "10k" H 10150 3050 50  0001 C CNN
+F 2 "tft_termo:RES_0603" H 10150 3050 50  0001 C CNN
+F 3 "" H 10150 3050 50  0001 C CNN
+	1    10150 3050
+	1    0    0    -1  
+$EndComp
+$Comp
+L tft_termo-eagle-import:CAP_0603 C18
+U 1 1 B2FDBA8A
+P 10950 3400
+AR Path="/B2FDBA8A" Ref="C18"  Part="1" 
+AR Path="/5ED25BE8/B2FDBA8A" Ref="C18"  Part="1" 
+F 0 "C18" H 10950 3400 50  0001 C CNN
+F 1 "0.1 uf" H 10950 3400 50  0001 C CNN
+F 2 "tft_termo:CAP_0603" H 10950 3400 50  0001 C CNN
+F 3 "" H 10950 3400 50  0001 C CNN
+	1    10950 3400
+	-1   0    0    1   
+$EndComp
+$Comp
+L tft_termo-eagle-import:RES_0603 R30
+U 1 1 46BB953A
+P 10150 2850
+AR Path="/46BB953A" Ref="R30"  Part="1" 
+AR Path="/5ED25BE8/46BB953A" Ref="R30"  Part="1" 
+F 0 "R30" H 10150 2850 50  0001 C CNN
+F 1 "120" H 10150 2850 50  0001 C CNN
+F 2 "tft_termo:RES_0603" H 10150 2850 50  0001 C CNN
+F 3 "" H 10150 2850 50  0001 C CNN
+	1    10150 2850
+	1    0    0    -1  
+$EndComp
+Text GLabel 4200 4100 0    10   BiDi ~ 0
+VDD
+Text GLabel 9450 3851 0    10   BiDi ~ 0
+VCC
+Text GLabel 9450 3951 0    10   BiDi ~ 0
+GND
+Wire Wire Line
+	2400 7700 3100 7700
+Wire Wire Line
+	2100 7550 2100 8150
+Wire Bus Line
+	3200 2000 3200 3550
+Wire Bus Line
+	3200 8450 4900 8450
+Wire Bus Line
+	6450 1850 6450 3550
+Wire Bus Line
+	6450 2900 8150 2900
+Wire Bus Line
+	9650 2400 9650 3500
+Wire Bus Line
+	12200 2700 12200 3500
+Wire Bus Line
+	6450 3550 6450 6000
+Wire Bus Line
+	3200 3550 6450 3550
+Wire Bus Line
+	8150 2900 8150 7250
+Wire Bus Line
+	3200 3550 3200 8450
+$EndSCHEMATC
